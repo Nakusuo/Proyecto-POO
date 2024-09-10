@@ -69,6 +69,7 @@ https://docs.google.com/document/d/1sb42Kf1dQEEU749Q3fiZjkeNDkrSoS8qc3eGnrV0bAE/
 
 # BASES DE DATOS
 
+```
 1. Base de Datos de Empleados
 sql
 Copiar código
@@ -89,6 +90,9 @@ CREATE TABLE Empleado (
 -- Insertar datos de ejemplo en la tabla Empleado
 INSERT INTO Empleado (nombre, rol, salario) VALUES ('Juan Pérez', 'Barista', 1200.00);
 INSERT INTO Empleado (nombre, rol, salario) VALUES ('Ana García', 'Gerente', 2000.00);
+```
+
+```
 2. Base de Datos de Productos
 sql
 Copiar código
@@ -109,6 +113,9 @@ CREATE TABLE Producto (
 -- Insertar datos de ejemplo en la tabla Producto
 INSERT INTO Producto (nombre, tipo, precio) VALUES ('Café', 'bebida', 3.50);
 INSERT INTO Producto (nombre, tipo, precio) VALUES ('Sándwich', 'comida', 5.00);
+```
+
+```
 3. Base de Datos de Pedidos
 sql
 Copiar código
@@ -130,3 +137,4 @@ CREATE TABLE Pedido (
 
 -- Insertar datos de ejemplo en la tabla Pedido
 INSERT INTO Pedido (fecha, id_cliente, id_empleado) VALUES ('2024-09-10 10:30:00', 1, 1);
+```
