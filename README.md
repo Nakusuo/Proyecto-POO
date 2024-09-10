@@ -3,14 +3,16 @@ Sistema de atención y recopilacion de ordenes para una Cafeteria
 
 <details>
 
-<summary> ## Discord </summary>
+<summary> Discordia </summary>
+### Discord
 [Link](https://discord.gg/92XfvRNr)
 
 </details>
 
 <details>
     
-<summary> # Usamos de referencia este video </summary>
+<summary> # Referencias </summary>
+### VIDEO
 [VIDEO REFERENCIAS](https://vm.tiktok.com/ZMhJamuf8/)
 tiene de manera similar nuestro trabajo
     
@@ -18,14 +20,20 @@ tiene de manera similar nuestro trabajo
 
 <details>
     
-<summary> # Documento Google para avanzar </summary>
+<summary> Archivos </summary>
+
+### INFO RANDOM
 [Google DOC](https://docs.google.com/document/d/1sb42Kf1dQEEU749Q3fiZjkeNDkrSoS8qc3eGnrV0bAE/edit?usp=sharing)
+
+### ARCHIVO PRESENTACION
 
 </details>
 
 <details>   
     
-<summary> # ***Tablas:*** </summary>
+<summary> Tablas: </summary>
+
+### DER
 |Producto (para abstraer comida y bebida)|
 |----------------------------------------|
 |id_producto (PK)                        |
