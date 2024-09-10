@@ -1,5 +1,6 @@
 # Proyecto-POO
 Sistema de atención y recopilacion de ordenes para una Cafeteria
+## cualquiera puede modificar el repósitorio.... en caso contrario escribame
 
 <details>
 
