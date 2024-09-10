@@ -3,7 +3,7 @@ Sistema de atención y recopilacion de ordenes para una Cafeteria
 
 <details>
 
-<summary> Discordia </summary>
+<summary> Comunicacion </summary>
 
 ### Discord
 
@@ -16,7 +16,6 @@ Sistema de atención y recopilacion de ordenes para una Cafeteria
 <summary> # Referencias </summary>
 
 ### VIDEO
-### You can add a header
 
 [VIDEO REFERENCIAS](https://vm.tiktok.com/ZMhJamuf8/)
 
@@ -101,7 +100,12 @@ tiene de manera similar nuestro trabajo
 
 </details>
 
-# BASES DE DATOS
+
+<details>   
+    
+<summary> SQL </summary>
+
+### BASES DE DATOS
 
 ```ruby
 1. Base de Datos de Empleados
@@ -256,3 +260,4 @@ CREATE TABLE Usuario (
 -- Insertar datos de ejemplo en la tabla Usuario
 INSERT INTO Usuario (nombre, contraseña, id_empleado) VALUES ('juan.perez', 'password123', 1);
 ```
+</details>
