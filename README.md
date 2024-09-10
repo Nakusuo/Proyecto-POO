@@ -1,5 +1,7 @@
 # Proyecto-POO
 Sistema de atención y recopilacion de ordenes para una Cafeteria
+## Discord
+[Link](https://discord.gg/92XfvRNr)
 
 # Usamos de referencia este video
 [VIDEO REFERENCIAS](https://vm.tiktok.com/ZMhJamuf8/)
