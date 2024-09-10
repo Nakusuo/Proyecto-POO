@@ -13,7 +13,7 @@ Sistema de atención y recopilacion de ordenes para una Cafeteria
 
 <details>
     
-<summary> # Referencias </summary>
+<summary> Referencias </summary>
 
 ### VIDEO
 
