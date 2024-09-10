@@ -1,16 +1,31 @@
 # Proyecto-POO
 Sistema de atención y recopilacion de ordenes para una Cafeteria
-## Discord
+
+<details>
+
+<summary> ## Discord </summary>
 [Link](https://discord.gg/92XfvRNr)
 
-# Usamos de referencia este video
+</details>
+
+<details>
+    
+<summary> # Usamos de referencia este video </summary>
 [VIDEO REFERENCIAS](https://vm.tiktok.com/ZMhJamuf8/)
 tiene de manera similar nuestro trabajo
+    
+</details>
 
-# Documento Google para avanzar
+<details>
+    
+<summary> # Documento Google para avanzar </summary>
 [Google DOC](https://docs.google.com/document/d/1sb42Kf1dQEEU749Q3fiZjkeNDkrSoS8qc3eGnrV0bAE/edit?usp=sharing)
 
-# ***Tablas:***
+</details>
+
+<details>   
+    
+<summary> # ***Tablas:*** </summary>
 |Producto (para abstraer comida y bebida)|
 |----------------------------------------|
 |id_producto (PK)                        |
@@ -68,6 +83,8 @@ tiene de manera similar nuestro trabajo
 |nombre                                    |
 |contraseña                                |
 |id_empleado (FK a Empleado)               |
+
+</details>
 
 # BASES DE DATOS
 
