@@ -69,7 +69,7 @@ https://docs.google.com/document/d/1sb42Kf1dQEEU749Q3fiZjkeNDkrSoS8qc3eGnrV0bAE/
 
 # BASES DE DATOS
 
-```
+```ruby
 1. Base de Datos de Empleados
 sql
 Copiar código
@@ -92,7 +92,7 @@ INSERT INTO Empleado (nombre, rol, salario) VALUES ('Juan Pérez', 'Barista', 12
 INSERT INTO Empleado (nombre, rol, salario) VALUES ('Ana García', 'Gerente', 2000.00);
 ```
 
-```
+```ruby
 2. Base de Datos de Productos
 sql
 Copiar código
@@ -115,7 +115,7 @@ INSERT INTO Producto (nombre, tipo, precio) VALUES ('Café', 'bebida', 3.50);
 INSERT INTO Producto (nombre, tipo, precio) VALUES ('Sándwich', 'comida', 5.00);
 ```
 
-```
+```ruby
 3. Base de Datos de Pedidos
 sql
 Copiar código
@@ -139,7 +139,7 @@ CREATE TABLE Pedido (
 INSERT INTO Pedido (fecha, id_cliente, id_empleado) VALUES ('2024-09-10 10:30:00', 1, 1);
 ```
 
-```
+```ruby
 4. Tabla Intermedia PedidosProductos
 sql
 Copiar código
@@ -160,7 +160,7 @@ CREATE TABLE PedidosProductos (
 INSERT INTO PedidosProductos (id_pedido, id_producto, cantidad) VALUES (1, 1, 2);
 INSERT INTO PedidosProductos (id_pedido, id_producto, cantidad) VALUES (1, 2, 1);
 ```
-```
+```ruby
 5. Base de Datos de Promociones
 sql
 Copiar código
@@ -181,7 +181,7 @@ CREATE TABLE Promocion (
 INSERT INTO Promocion (descripcion, descuento) VALUES ('Descuento en café', 10.00);
 ```
 
-```
+```ruby
 6. Tabla Intermedia PromocionProducto
 sql
 Copiar código
@@ -200,7 +200,7 @@ CREATE TABLE PromocionProducto (
 -- Insertar datos de ejemplo en la tabla PromocionProducto
 INSERT INTO PromocionProducto (id_promocion, id_producto) VALUES (1, 1);
 ```
-```
+```ruby
 7. Base de Datos de Usuarios
 sql
 Copiar código
