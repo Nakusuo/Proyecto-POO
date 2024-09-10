@@ -10,10 +10,11 @@ https://docs.google.com/document/d/1sb42Kf1dQEEU749Q3fiZjkeNDkrSoS8qc3eGnrV0bAE/
 
 Tablas:
 |Producto (para abstraer comida y bebida)|
-|id_producto (PK)|
-|nombre|
-|tipo (bebida/comida)|
-|precio|
+|   --                                   |
+|id_producto (PK)                        |
+|nombre                                  |
+|tipo (bebida/comida)                    |
+|precio                                  |
 
 Cliente
 id_cliente (PK)
