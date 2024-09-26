@@ -10,7 +10,7 @@ public class Promocionable {
     // Constructor
     public Promocionable(String nombre, double precio, boolean enPromocion, double descuento) {
         this.nombre = nombre;
-        this.precio = precio;
+        this.precio =  precio;
         this.enPromocion = enPromocion;
         this.descuento = descuento;
     }
