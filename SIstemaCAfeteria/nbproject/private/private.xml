@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Empleado.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/PromocionProduct.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/FormiterEmpleado.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/controlador/empleadoController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Producto.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/ForminterPromociones.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/controlador/pedidoController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Pedido.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/controlador/ProductController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Promocion.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/FormiterMenus.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Comida.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/FormiterCliente.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/controlador/ComidaController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Bebida.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/controlador/BebidaController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Pedidos.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/ForminterMenus.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/Promocionable.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/ForminterProducto.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/controlador/clienteController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/FrmLogin.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/FrmMenu.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/vista/FormiterListPedidos.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/modelo/ModelProductos.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/controlador/PromocionController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/SIstemaCAfeteria/src/controlador/productoController.java</file>
+        </group>
+    </open-files>
+</project-private>
